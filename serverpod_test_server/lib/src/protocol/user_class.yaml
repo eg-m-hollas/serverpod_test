@@ -1,0 +1,10 @@
+class: User
+table: users
+
+fields: 
+  name: String
+  image: String
+  lastName: String
+  gender: String
+  preference: String
+  yesorno: bool
